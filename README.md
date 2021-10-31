@@ -6,5 +6,7 @@ in RW Style of course
 
 
 ~~this is my first RW mod, so expect low quality~~
+
+currently in development
 # Download
 just download the zip file of the repo
