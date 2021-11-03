@@ -1,5 +1,5 @@
 # MindustryRW
-Rusted Warfare mod that adds units from a game called Mindustry
+Rusted Warfare mod that mainly add units from a game called Mindustry
 
 
 in RW Style of course
